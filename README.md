@@ -22,6 +22,10 @@
   <li>DDoor - Data visualization, budgeting, calculations</li>
   <li>Restaurant - Random Restaurant picker based on user decision</li>
   <li>Trip - Trip calculator, calculates the price of a trip with user input</li>
+  <li>Block Diagram - Test different values for a Block Diagram based on a functioned transformed in Laplace in order to achieve the sinusoidal response
+  Result:
+  ![result](https://user-images.githubusercontent.com/38012979/197604461-393416b1-c00d-4cf1-8829-d09ce5c6afa3.png)
+</li>
 </ul>
 
 <h3>Java</h3>
